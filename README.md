@@ -59,7 +59,7 @@ sudo apt install -y python3 python3-pip
 
 2️⃣ **Clone the project**
 ```bash
-git clone https://github.com/mirodev/ritardometro.git
+git clone https://github.com/mirovix/ritardometro.git
 cd ritardometro
 ```
 
@@ -98,7 +98,7 @@ Paste the following content:
 ```
 [Desktop Entry]
 Type=Application
-Exec=/usr/bin/python3 /home/miro/workspace/personal/ritardometro/train_monitor.py
+Exec=/usr/bin/python3 /home/**your_path**/ritardometro/train_monitor.py
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true
@@ -124,7 +124,7 @@ You should see **TrainMonitor** listed and enabled.
 
 To test manually without rebooting:
 ```bash
-/usr/bin/python3 /home/miro/workspace/personal/ritardometro/train_monitor.py
+/usr/bin/python3 /home/**your_path**/ritardometro/train_monitor.py
 ```
 
 To verify it started correctly:
