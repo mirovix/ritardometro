@@ -166,7 +166,7 @@ ritardometro/
 
 ## 🪄 Author
 
-**Miro Uango**  
+**Miro**  
 💻 GitHub: [github.com/mirovix](https://github.com/mirovix)  
 🚆 Created for personal use on Linux / Ubuntu systems.
 
