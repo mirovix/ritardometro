@@ -1,0 +1,12 @@
+current_station: PADOVA
+destinations:
+  - BRESCIA
+  - VERONA PORTA NUOVA
+hours:
+  - "16"
+  - "17"
+  - "18"
+minutes:
+  - "40"
+lead_time: 20
+max_delay_minutes: 1
